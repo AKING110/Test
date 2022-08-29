@@ -1,0 +1,2 @@
+import ts
+ts.virus()
