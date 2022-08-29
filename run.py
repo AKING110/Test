@@ -1,2 +1,2 @@
-import ts
-ts.virus()
+import Tx
+Tx.virus()
