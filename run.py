@@ -1,2 +1,2 @@
-import gm
-gm.virus()
+import tx
+tx.virus()
