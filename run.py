@@ -1,2 +1,1 @@
-import tx
-tx.virus()
+import Tst
