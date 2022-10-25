@@ -1,1 +1,1 @@
-import Tst
+import test
